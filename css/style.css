@@ -347,13 +347,12 @@ a.leran-more:hover{
 }
 .expertice-left-grid{
 	
-	background: url(../images/story.jpg) no-repeat 0px 0px;
-	background-size: cover;
-	min-height: 656px;
 	padding:3em 3em 3em 5em;
 }
 .expertise-left-inner-grids{
-	
+	background: url(../images/story.jpg) no-repeat 0px 0px;
+	background-size: cover;
+	min-height: 656px;	
 	padding:2em 0;
 }
 /*---- portflio ----*/
