@@ -29,7 +29,7 @@ body a{
 .header{
 }
 .logo{
-	float: left;
+	float: center;
 	margin-top: 0.6em;
 }
 .logo a{
