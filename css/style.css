@@ -602,7 +602,7 @@ a.leran-more:hover{
 /*---team-members--*/
 .team-members{	
   	background: url(../images/OurProjects.jpg) no-repeat 0px 0px;
-	background-size: cover;
+	background-size: 100% 100%;
 }
 .tm-head{
 	text-align:center;
