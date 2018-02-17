@@ -601,7 +601,7 @@ a.leran-more:hover{
 /*--//about-time-line--*/
 /*---team-members--*/
 .team-members{	
-  
+  padding: 2em 0 3em 0;
 }
 .tm-head{	
 	text-align:center;
