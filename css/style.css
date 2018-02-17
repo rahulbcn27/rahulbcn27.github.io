@@ -601,11 +601,10 @@ a.leran-more:hover{
 /*--//about-time-line--*/
 /*---team-members--*/
 .team-members{	
-  	
+  	background: url(../images/OurProjects.jpg) no-repeat 0px 0px;
+	background-size: cover;
 }
-.tm-head{
-	background: url(../images/OurProjects.jpg) no-repeat 0px 0px;
-	background-size: 100% 100%;
+.tm-head{	
 	text-align:center;
 }
 .tm-head h3{
